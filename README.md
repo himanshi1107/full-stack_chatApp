@@ -65,3 +65,12 @@ Use the following command to monitor logs and troubleshoot:
   ```
   docker-compose logs -f
   ```
+
+## 📚 Project Snapshots:
+
+![image](https://github.com/user-attachments/assets/eb766945-dc3e-4524-8691-a46831e8df61)
+
+![image](https://github.com/user-attachments/assets/6e96469d-a93c-4359-8131-5a61aa6ec275)
+
+![WhatsApp Image 2025-02-01 at 01 56 39_32fc5c56](https://github.com/user-attachments/assets/63598cc6-731e-4113-b4ed-59dfaccb1f2f)
+
